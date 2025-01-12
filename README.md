@@ -2,7 +2,7 @@
 A Jupyter notebook-based tool that automatically generates comprehensive README files for GitHub repositories using GPT-4. This tool analyzes repository contents and creates well-structured, professional README.md files ready for immediate use.
 
 ---
-##Features
+## Features
 
 - Automatic Content Analysis: Intelligently scans repository contents to understand project structure and purpose
 - GPT-4 Powered: Leverages OpenAI's GPT-4 model for generating high-quality documentation
