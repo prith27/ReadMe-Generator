@@ -89,7 +89,9 @@ The interface provides a simple, intuitive way to interact with the tool:
 ---
 
 ## License
+
 MIT License. See LICENSE file for details.
+
 ---
 ## Acknowledgments
 
