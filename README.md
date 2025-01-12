@@ -49,13 +49,13 @@ A Jupyter notebook-based tool that automatically generates comprehensive README 
 - Error Handling
 - Gradio UI
 ---
-##Configuration
+## Configuration
 
-###Environment Variables
+### Environment Variables
 - OPENAI_API_KEY: Required for GPT-4 access
 - GITHUB_TOKEN: Optional, increases GitHub API rate limits
 
-###Customizable Parameters
+### Customizable Parameters
 - max_files: Maximum number of files to process (default: 20)
 - max_tokens: Token limit for GPT-4 context (default: 6000)
 
@@ -80,7 +80,7 @@ The interface provides a simple, intuitive way to interact with the tool:
 - Create a Pull Request
 ---
 
-##Notes
+## Notes
 
 - The tool only works with public repositories unless a GitHub token is provided
 - Large files (>100KB) and binary files are automatically skipped
@@ -88,10 +88,10 @@ The interface provides a simple, intuitive way to interact with the tool:
 - Generated READMEs follow markdown best practices with clear section separation
 ---
 
-##License
+## License
 MIT License. See LICENSE file for details.
 ---
-##Acknowledgments
+## Acknowledgments
 
 - OpenAI for GPT-4 API
 - Gradio team for the UI framework
